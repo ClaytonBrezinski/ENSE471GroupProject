@@ -15,10 +15,13 @@ Within the command line type
 '''
 python <filename>.py (without the <>'s).
 '''
+
 ##Instructions for editing on windows:
 All editing may be done through the Python editor of your own choice. However, this project was completed using [PyQt5's QtDesigner](https://www.riverbankcomputing.com/software/pyqt/download5) 
+
 ###To open:
 Press windows key then enter: "Designer".
 Click on the Designer desktop application
+
 ###To edit: 
 Using the open button located in the top left, navigate to the desired .ui file and double click on it
